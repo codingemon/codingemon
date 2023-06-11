@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there, i'm Choi SungHyung 👋
 
 <!--
 **snoopy1224/snoopy1224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
