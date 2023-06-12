@@ -1,4 +1,4 @@
-### 🌱Hello there, i'm Choi SungHyung 👋
+###  👋 Hello there, i'm Choi SungHyung🌱
 
 
 
