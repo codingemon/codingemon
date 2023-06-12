@@ -4,6 +4,9 @@
 
 <br>
 
+
+### 👋 Hello there, i'm Choi SungHyung🌱
+
 ---
 
 ![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=snoopy1224&show_icons=true)
